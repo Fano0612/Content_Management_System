@@ -174,6 +174,6 @@
 <br>
 
 <br>
-⚠️ Program tidak akan bisa dijalankan tanpa adanya akun yang sudah login (_The program can't be run without an account that is already logged in_)
+⚠️ The program can't be run without an account that is already logged in (Program tidak akan bisa dijalankan tanpa adanya akun yang sudah login)
 <br>
-✅ Apabila sudah login silakan lewati langkah pengisian form login (_If you've logged in, please skip the login form filling steps_)
+✅ If you've logged in, please skip the login form filling steps (Apabila sudah login silakan lewati langkah pengisian form login)
