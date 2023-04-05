@@ -39,6 +39,11 @@
 -> Fill the login form -> Click Submit -> System will open the mainpage -> Select Products on the navbar -> System will open the Productlist's page
 <br>
 <br>
+* Buyproducts
+<br>
+-> Select Products on the navbar -> System will open the Productlist's page -> Click Buy on the desired item
+<br>
+<br>
 * Manageproducts
 <br>
 -> Fill the login form -> Click Submit -> System will open the mainpage -> Select Manage on the navbar -> System will open the Manageproducts's page
@@ -46,6 +51,7 @@
 <br>
 * Addproduct
 <br>
+-> Select Manage on the navbar -> System will open the Manageproducts's page -> Fill in Addproduct form -> Click Submit
 <br>
 * Deleteproduct
 <br>
@@ -83,4 +89,5 @@
 
 
 ⚠️ Program tidak akan bisa dijalankan tanpa adanya akun yang sudah login (_The program can't be run without an account that is already logged in_)
+<br>
 ✅ Apabila sudah login silakan lewati langkah pengisian form login (_If you've logged in, please skip the login form filling steps_)
