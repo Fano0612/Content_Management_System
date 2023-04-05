@@ -177,3 +177,5 @@
 ⚠️ The program can't be run without an account that is already logged in (Program tidak akan bisa dijalankan tanpa adanya akun yang sudah login)
 <br>
 ✅ If you've logged in, please skip the login form filling steps (Apabila sudah login silakan lewati langkah pengisian form login)
+
+## &copy; <a href="https://www.linkedin.com/in/yonathan-fanuel-mulyadi-08a690231/">Fano Mulyadi 2023</a>
