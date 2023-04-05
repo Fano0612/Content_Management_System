@@ -16,7 +16,7 @@
 <br>
 
 # Running Application
-- Merchant
+#Merchant
 * Register
 -> Login -> Don't have an account? -> Fill the form -> Submit
 * Login
