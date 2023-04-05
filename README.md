@@ -34,9 +34,7 @@
 * Addcategory
 * Deletecategory
 * Editcategory
-<br>
-
-
+<hr>
 
 - User
 <br>
