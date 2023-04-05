@@ -18,24 +18,29 @@
 # Running Application
 <h2>Merchant</h2>
 * Register
+<br>
 -> Login -> Don't have an account? -> Fill the form -> Choose Access = Merchant -> Submit 
 <br>
 <br>
 * Login
+<br>
 -> Fill the login form -> Click Submit -> System will open the mainpage
 <br>
 <br>
 * Mainpage
+<br>
 -> Fill the login form -> Click Submit -> System will open the mainpage
 <br>
 -> Select Home on the navbar
 <br>
 <br>
 * Productlist
+<br>
 -> Fill the login form -> Click Submit -> System will open the mainpage -> Select Products on the navbar -> System will open the Productlist's page
 <br>
 <br>
 * Manageproducts
+<br>
 -> Fill the login form -> Click Submit -> System will open the mainpage -> Select Manage on the navbar -> System will open the Manageproducts's page
 <br>
 <br>
@@ -64,12 +69,15 @@
 <h2>User</h2>
 <br>
 * Register
+<br>
 -> Login -> Don't have an account? -> Fill the form -> Choose Access = User -> Submit 
 <br>
 * Login
+<br>
 -> Fill the login form -> Click Submit -> System will open the mainpage
 <br>
 * Mainpage
+<br>
 -> Fill the login form -> Click Submit -> System will open the mainpage
 <br>
 
