@@ -17,23 +17,33 @@
 
 # Running Application
 <h2>Merchant</h2>
-<br>
 * Register
--> Login -> Don't have an account? -> Fill the form -> Submit
+-> Login -> Don't have an account? -> Fill the form -> Submit 
+<br>
 * Login
 -> Fill the login form -> Click Submit -> System will open the mainpage
+<br>
 * Mainpage
 -> Fill the login form -> Click Submit -> System will open the mainpage
+<br>
 * Productlist
 -> Fill the login form -> Click Submit -> System will open the mainpage -> Select Products on the navbar -> System will open the Productlist's page
+<br>
 * Manageproducts
 -> Fill the login form -> Click Submit -> System will open the mainpage -> Select Manage on the navbar -> System will open the Manageproducts's page
+<br>
 * Addproduct
+<br>
 * Deleteproduct
+<br>
 * Editproduct
+<br>
 * Managecategories
+<br>
 * Addcategory
+<br>
 * Deletecategory
+<br>
 * Editcategory
 <hr>
 
