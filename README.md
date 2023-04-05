@@ -18,13 +18,15 @@
 # Running Application
 <h2>Merchant</h2>
 * Register
--> Login -> Don't have an account? -> Fill the form -> Submit 
+-> Login -> Don't have an account? -> Fill the form -> Choose Access = Merchant -> Submit 
 <br>
 * Login
 -> Fill the login form -> Click Submit -> System will open the mainpage
 <br>
 * Mainpage
 -> Fill the login form -> Click Submit -> System will open the mainpage
+<br>
+-> Select Home on the navbar
 <br>
 * Productlist
 -> Fill the login form -> Click Submit -> System will open the mainpage -> Select Products on the navbar -> System will open the Productlist's page
@@ -49,5 +51,16 @@
 
 <h2>User</h2>
 <br>
+* Register
+-> Login -> Don't have an account? -> Fill the form -> Choose Access = User -> Submit 
+<br>
+* Login
+-> Fill the login form -> Click Submit -> System will open the mainpage
+<br>
+* Mainpage
+-> Fill the login form -> Click Submit -> System will open the mainpage
+<br>
+
+
 ⚠️ Program tidak akan bisa dijalankan tanpa adanya akun yang sudah login (_The program can't be run without an account that is already logged in_)
 ✅ Apabila sudah login silakan lewati langkah pengisian form login (_If you've logged in, please skip the login form filling steps_)
