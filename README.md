@@ -17,47 +17,59 @@
 
 # Running Application
 <h2>Merchant</h2>
-* Register
+* **Register**
 -> Login -> Don't have an account? -> Fill the form -> Choose Access = Merchant -> Submit 
 <br>
-* Login
+<br>
+* **Login**
 -> Fill the login form -> Click Submit -> System will open the mainpage
 <br>
-* Mainpage
+<br>
+* **Mainpage**
 -> Fill the login form -> Click Submit -> System will open the mainpage
 <br>
 -> Select Home on the navbar
 <br>
-* Productlist
+<br>
+* **Productlist**
 -> Fill the login form -> Click Submit -> System will open the mainpage -> Select Products on the navbar -> System will open the Productlist's page
 <br>
-* Manageproducts
+<br>
+* **Manageproducts**
 -> Fill the login form -> Click Submit -> System will open the mainpage -> Select Manage on the navbar -> System will open the Manageproducts's page
 <br>
-* Addproduct
 <br>
-* Deleteproduct
+* **Addproduct**
 <br>
-* Editproduct
 <br>
-* Managecategories
+* **Deleteproduct**
 <br>
-* Addcategory
 <br>
-* Deletecategory
+* **Editproduct**
 <br>
-* Editcategory
+<br>
+* **Managecategories**
+<br>
+<br>
+* **Addcategory**
+<br>
+<br>
+* **Deletecategory**
+<br>
+<br>
+* **Editcategory**
 <hr>
+<br>
 
 <h2>User</h2>
 <br>
-* Register
+* **Register**
 -> Login -> Don't have an account? -> Fill the form -> Choose Access = User -> Submit 
 <br>
-* Login
+* **Login**
 -> Fill the login form -> Click Submit -> System will open the mainpage
 <br>
-* Mainpage
+* **Mainpage**
 -> Fill the login form -> Click Submit -> System will open the mainpage
 <br>
 
