@@ -115,11 +115,9 @@
 -> Select cart icon on the navbar -> System will open the cart's page -> Click Pay
 <br>
 <br>
-
 <hr>
 <br>
 <h2>User</h2>
-<br>
 * Register
 <br>
 -> Login -> Don't have an account? -> Fill the form -> Choose Access = User -> Submit 
