@@ -16,7 +16,7 @@
 <br>
 
 # Running Application
-# Merchant
+<h2>Merchant</h2>
 * Register
 -> Login -> Don't have an account? -> Fill the form -> Submit
 * Login
@@ -36,7 +36,7 @@
 * Editcategory
 <hr>
 
-- User
+<h2>User</h2>
 <br>
 ⚠️ Program tidak akan bisa dijalankan tanpa adanya akun yang sudah login (_The program can't be run without an account that is already logged in_)
 ✅ Apabila sudah login silakan lewati langkah pengisian form login (_If you've logged in, please skip the login form filling steps_)
