@@ -112,7 +112,7 @@
 <br>
 * Payment
 <br>
--> Select cart icon on the navbar -> System will open the cart's page -> Click Pay
+-> Select cart icon on the navbar -> System will open the cart's page -> Click Pay -> Click Ok
 <br>
 <br>
 <hr>
@@ -169,7 +169,7 @@
 <br>
 * Payment
 <br>
--> Select cart icon on the navbar -> System will open the cart's page -> Click Pay
+-> Select cart icon on the navbar -> System will open the cart's page -> Click Pay -> Click Ok
 <br>
 <br>
 
