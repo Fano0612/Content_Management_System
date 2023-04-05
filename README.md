@@ -17,6 +17,7 @@
 
 # Running Application
 <h2>Merchant</h2>
+<br>
 * Register
 -> Login -> Don't have an account? -> Fill the form -> Submit
 * Login
